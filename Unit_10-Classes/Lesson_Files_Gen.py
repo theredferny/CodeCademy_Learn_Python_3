@@ -9,7 +9,7 @@ Goal: create .py files.
 """
 
 unit_number = '10'  # add wanted data
-lesson_number = '01'  # add wanted data
+lesson_number = '02'  # add wanted data
 exercise_number = 1
 file_contents = '"""\n\n"""\n\n\n'
 
